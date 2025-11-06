@@ -82,7 +82,7 @@ The project is fully static and requires no external dependencies beyond Google 
 
 ---
 
-## 🎯 Design Decisions
+## Design Decisions
 
 1. **Single-page layout** – to simplify navigation and quick scanning  
 2. **Dual-column structure** – separates time-based from categorical information  
