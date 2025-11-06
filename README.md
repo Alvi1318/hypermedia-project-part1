@@ -66,7 +66,7 @@ The circular profile photo and blue border around the main container add persona
 ## Live Demo
 
 **GitHub Pages:**  
-[https://alexcotano.github.io/cv-personal](https://alexcotano.github.io/cv-personal)
+[[https://alexcotano.github.io/cv-personal](https://alexcotano.github.io/cv-personal)]
 
 ---
 
