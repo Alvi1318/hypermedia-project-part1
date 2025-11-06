@@ -36,7 +36,9 @@ The header contains the most important information: name, professional title, co
 
 The main content is divided into two columns for optimal readability.  
 The left column (60% width) presents time-based and narrative information: work experience and education in reverse chronological order, followed by personal strengths and passions.  
-The right column (40%) groups categorical information: professional summary, technical skills organized by category, tools used, and languages.  
+The right column (40%) groups categorical information: professional summary, technical skills organized by category, tools used, and languages.
+
+The sections are clearly divided with uppercase titles and appropriate white space. Visual elements such as icons and colors help quickly identify each section, while the distinctive blue border adds personality without compromising professionalism.
 
 ---
 
