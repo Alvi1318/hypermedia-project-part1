@@ -1,67 +1,91 @@
-# CV Personal - Alex Cotano Bueno
+# Personal CV - Alex Cotano Bueno
 
 ## Project Analysis
 
 ### User Profile - User Persona
 
-**Nom:** Maria Sánchez  
-**Edat:** 35 anys  
-**Ocupació:** HR Manager en empresa tecnològica  
-**Ubicació:** Barcelona, Catalunya
+**Name:** Maria Sánchez  
+**Age:** 35 years old  
+**Occupation:** HR Manager at a tech company  
+**Location:** Barcelona, Catalonia  
 
-**Objectius:**
-- Trobar desenvolupadors fullstack per a projectes web
-- Avaluar ràpidament les habilitats tècniques dels candidats
-- Verificar l'experiència laboral i educació
-- Contactar fàcilment amb candidats prometedors
+**Goals:**
+- Find fullstack developers for web projects  
+- Quickly assess candidates’ technical skills  
+- Verify work experience and education  
+- Easily contact promising candidates  
 
-**Necessitats:**
-- Informació clara i ben estructurada
-- Accés ràpid a les habilitats tècniques
-- Enllaços a projectes o portfolio
-- Dades de contacte visibles i accessibles
+**Needs:**
+- Clear and well-structured information  
+- Quick access to technical skills  
+- Links to projects or portfolio  
+- Contact details visible and accessible  
 
-**Comportament:**
-- Revisa múltiples CVs al dia
-- Dedica entre 30-60 segons en la primera revisió
-- Valora el disseny professional i la claredat
-- Busca candidats amb experiència en WordPress i desenvolupament web
+**Behavior:**
+- Reviews multiple CVs per day  
+- Spends 30–60 seconds on the first scan  
+- Values professional design and clarity  
+- Looks for candidates with experience in WordPress and web development  
 
-### Information Architecture
+---
 
-El projecte segueix una arquitectura de pàgina única (single-page) amb una distribució vertical clara. La capçalera conté la informació més important: nom, títol professional, dades de contacte i foto de perfil, assegurant visibilitat immediata.
+## Information Architecture
 
-El contingut principal es divideix en dues columnes per optimitzar la visibilitat. La columna esquerra (60% de l'ample) presenta la informació temporal i narrativa: experiència laboral i educació en ordre cronològic invers, seguida de fortaleses i passions personals. La columna dreta (40%) agrupa informació categòrica: resum professional, habilitats tècniques organitzades per categories, eines utilitzades i idiomes.
+The project follows a single-page structure with a clear vertical layout.  
+The header contains the most important information: name, professional title, contact details, and profile photo — ensuring immediate visibility.  
 
-### Visual Design
+The main content is divided into two columns for optimal readability.  
+The left column (60% width) presents time-based and narrative information: work experience and education in reverse chronological order, followed by personal strengths and passions.  
+The right column (40%) groups categorical information: professional summary, technical skills organized by category, tools used, and languages.  
 
-S'ha escollit una paleta cromàtica limitada: blanc com a base per maximitzar la llegibilitat, gris (#333, #666, #999) per a textos secundaris i un blau corporatiu (#4A90E2) com a color d'accent que transmet confiança i professionalisme. Aquest blau s'utilitza consistentment en títols, empreses, enllaços i la vora del contenidor.
+---
 
-La tipografia Inter és la font principal per la seva excel·lent llegibilitat en pantalles i estètica moderna. S'utilitza una jerarquia clara de mides: 32px per al nom, 18px per al subtítol, i mides progressivament menors per al contingut. Els pesos tipogràfics (400, 600, 700) estableixen una jerarquia visual clara sense necessitat de colors addicionals.
+## Visual Design
 
-El layout utilitza Flexbox per a la disposició flexible. L'espaiat segueix un sistema consistent (gaps de 8-10px per elements relacionats, 20-35px entre seccions). Els elements interactius com les etiquetes d'habilitats tenen fons gris clar amb vora subtil. La foto de perfil circular i el borde blau del contenidor afegeixen personalitat mantenint l'elegància professional.
+A limited color palette was chosen: white as a base to maximize readability, shades of gray (#333, #666, #999) for secondary text, and a corporate blue (#4A90E2) as an accent color to convey trust and professionalism.  
+This blue is used consistently in headings, company names, links, and the container border.  
+
+The **Inter** typeface is the primary font due to its excellent screen readability and modern aesthetic.  
+A clear typographic hierarchy is established: 32px for the name, 18px for subtitles, and progressively smaller sizes for content.  
+Font weights (400, 600, 700) create a clear visual hierarchy without the need for extra colors.  
+
+The layout uses **Flexbox** for responsive arrangement.  
+Spacing follows a consistent system (8–10px gaps between related elements, 20–35px between sections).  
+Interactive elements such as skill tags have a light gray background with subtle borders.  
+The circular profile photo and blue border around the main container add personality while maintaining a professional look.  
+
+---
 
 ## Figma Design
 
-**Enllaç al projecte Figma:** (https://www.figma.com/design/iE9EhHF81gaFSPrCSnV1Fa/Hypermedia-Project-1?node-id=0-1&t=88T666ZuTp0qEQHs-1)
+**Figma Project Link:**  
+[https://www.figma.com/design/iE9EhHF81gaFSPrCSnV1Fa/Hypermedia-Project-1?node-id=0-1&t=88T666ZuTp0qEQHs-1](https://www.figma.com/design/iE9EhHF81gaFSPrCSnV1Fa/Hypermedia-Project-1?node-id=0-1&t=88T666ZuTp0qEQHs-1)
+
+---
 
 ## Live Demo
 
-**GitHub Pages:** [https://alexcotano.github.io/cv-personal](https://alexcotano.github.io/cv-personal)
+**GitHub Pages:**  
+[https://alexcotano.github.io/cv-personal](https://alexcotano.github.io/cv-personal)
 
-## Tecnologies Utilitzades
+---
 
-- **HTML**: Estructura semàntica del document
-- **CSS**: Estils i layout amb Flexbox
-- **Google Fonts**: Tipografia Inter
-- **SVG**: Icones personalitzades
+## Technologies Used
 
-**No s'han utilitzat frameworks** per mantenir el control total sobre el codi i garantir un rendiment òptim. El projecte és completament estàtic i no requereix dependències externes més enllà de la font de Google Fonts.
+- **HTML** – Semantic structure of the document  
+- **CSS** – Styling and layout using Flexbox  
+- **Google Fonts** – Inter typeface  
+- **SVG** – Custom icons  
 
-## 🎯 Decisions de Disseny
+**No frameworks** were used in order to keep full control of the code and ensure optimal performance.  
+The project is fully static and requires no external dependencies beyond Google Fonts.  
 
-1. **Single-page layout**: Per facilitar la navegació i l'escaneig ràpid
-2. **Columna dual**: Separa informació temporal de categòrica
-3. **Color d'accent únic**: El blau crea coherència visual
-4. **Tipografia sans-serif**: Inter ofereix màxima llegibilitat
-5. **Borde distintiu**: Fa memorable el CV sense ser intrusiu
+---
+
+## 🎯 Design Decisions
+
+1. **Single-page layout** – to simplify navigation and quick scanning  
+2. **Dual-column structure** – separates time-based from categorical information  
+3. **Single accent color** – blue ensures visual consistency  
+4. **Sans-serif typography** – Inter provides maximum readability  
+5. **Distinct border** – makes the CV memorable without being intrusive  
